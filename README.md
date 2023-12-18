@@ -24,6 +24,3 @@ iOS를 사랑하는 개발자입니다☺️
 
 ## 💻 Studying
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-
-## ☎️ Contact me
-- Email : thddudgns972@gmail.com
