@@ -1,10 +1,13 @@
 ## 👋 Hi there
-iOS를 사랑하는 개발자입니다☺️
-
-> `ENFJ` `친절함` `활발함` `도전적임` `열정적인` 
+저는 도전적인 것을 추구하는 iOS 개발자입니다 ☺️
+> `ENFJ` `친절함` `활발함` `열정적인` 
 
 ## 🛠️ Tech stacks
-<img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=Xcode&logoColor=white"> <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"> 
+<img src="https://img.shields.io/badge/IOS-000000?style=flat&logo=IOS&logoColor=white"> <img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=Swift&logoColor=white"> <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"> <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B&logoColor=white">
 
 ## 💻 Studying
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white"> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=white"> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
+
+## 🧑‍💻 Contact me
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:thddudgns972@gmail.com"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/_klein.h/">
+    
