@@ -9,9 +9,9 @@
 
 ## 📽️ Project
 |Title|Contest|Year|Note|
-|-----|----|----|---------|
-|[Rising Camp](https://github.com/0Hooni/iOS/tree/main/Rising%20Camp)|11th Rising Camp|2022.10 ~ 2022.12|UIKit를 다양한 앱을 클론하며 배웠고, Test(쿠팡이츠 클론)를 통과하며 수료.|
-|AR Button Guide|Capstone Design|2023.08 ~ 2023.12|차량의 여러 버튼, 기능고장 알림등을 AR화면에서 가이드. AR 파트를 맡음.|
+|-----|---|---|---------|
+|[Rising Camp](https://github.com/0Hooni/iOS/tree/main/Rising%20Camp)|11th Rising Camp|2022.10 ~ 2022.12|부트캠프동안 UIKit를 다양한 앱을 클론하며 배웠고, Rising test(쿠팡이츠 클론)를 통과하며 수료|
+|AR Button Guide|Capstone Design|2023.08 ~ 2023.12|차린이를 위해 여러 기능버튼, 기능고장 알림등을 Camera detecting과 AR을 통해 가이드 해주는 앱. AR 파트를 맡음|
 <br>
 
 ## 🛠️ Tech stacks
