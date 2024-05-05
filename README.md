@@ -12,6 +12,7 @@
 |---|---|---|
 |[Rising Camp](https://github.com/0Hooni/iOS/tree/main/Rising%20Camp)|11th Rising Camp|2022.10 ~ 2022.12|
 |AR Button Guide|Capstone Design|2023.08 ~ 2023.12|
+|[HONZAPDA](https://github.com/Honzapda/Honzapda_iOS)|Side Project|2024.03 ~ |
 <br>
 
 ## 🛠️ Tech stacks
