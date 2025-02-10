@@ -1,5 +1,5 @@
 ## 👋 Hi there
-저는 도전적임을 추구하는 iOS 개발자입니다 ☺️
+사용자가 만족하는 순간을 만들기 위해 끊임없이 고민하는 iOS 개발자 송영훈입니다 ☺️
 > `ENFJ` `친절함` `활발함` `열정적인` 
 <br>
 
@@ -8,20 +8,24 @@
 <br>
 
 ## 📽️ Project
-| **Title** | **Contest** | **Year** |
-|---|---|---|
-|[Rising Camp](https://github.com/0Hooni/RisingCamp)|11th Rising Camp|2022.10 ~ 2022.12|
-|[AR Button Guide](https://github.com/0Hooni/ButtonARGuide)|Capstone Design|2023.08 ~ 2023.12|
-|[HONZAPDA](https://github.com/Honzapda/Honzapda_iOS)|Side Project|2024.03 ~ |
+
+| **Title** | **Contest** | **Year** | **Tech** |
+|---|---|---|---|
+|[PhotoGether](https://github.com/boostcampwm-2024/iOS04-PhotoGether)|Side Project|2024.10 ~ 2024.12 | UIKit, Combine, SnapKit, WebRTC |
+|[HONZAPDA](https://github.com/Honzapda/Honzapda_iOS)|Side Project|2024.03 ~ 2024.07 | SwiftUI, Alamofire |
+|[AR Button Guide](https://github.com/0Hooni/ButtonARGuide)|Capstone Design|2023.08 ~ 2023.12| SwiftUI, ARKit, Vision, CoreML |
+|[Rising Camp](https://github.com/0Hooni/RisingCamp)|11th Rising Camp|2022.10 ~ 2022.12| UIKit, Alamofire |
+
 <br>
 
 ## 🛠️ Tech stacks
-<img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white">
-<br>
-<br>
+### 📌 Languages & Frameworks
 
-## 💻 Studying
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
+<img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white"> <img src="https://img.shields.io/badge/UIKit-2396F3?style=for-the-badge&logo=apple&logoColor=white"> <img src="https://img.shields.io/badge/SwiftUI-FF5722?style=for-the-badge&logo=swift&logoColor=white"> <img src="https://img.shields.io/badge/Combine-007AFF?style=for-the-badge&logo=apple&logoColor=white"> <img src="https://img.shields.io/badge/WebRTC-0088CC?style=for-the-badge&logo=webrtc&logoColor=white">
+
+### 📌 Tools & Collaboration
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
 <br>
 <br>
     
