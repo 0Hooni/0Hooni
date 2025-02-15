@@ -21,7 +21,7 @@
 ## 🛠️ Tech stacks
 #### 📌 Languages & Frameworks
 
-<img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white"> <img src="https://img.shields.io/badge/UIKit-2396F3?style=for-the-badge&logo=apple&logoColor=white"> <img src="https://img.shields.io/badge/SwiftUI-FF5722?style=for-the-badge&logo=swift&logoColor=white"> <img src="https://img.shields.io/badge/Combine-007AFF?style=for-the-badge&logo=apple&logoColor=white"> <img src="https://img.shields.io/badge/WebRTC-0088CC?style=for-the-badge&logo=webrtc&logoColor=white">
+<img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white"> <img src="https://img.shields.io/badge/UIKit-2396F3?style=for-the-badge&logo=apple&logoColor=white"> <img src="https://img.shields.io/badge/SwiftUI-FF5722?style=for-the-badge&logo=swift&logoColor=white"> <img src="https://img.shields.io/badge/Combine-007AFF?style=for-the-badge&logo=apple&logoColor=white">
 
 #### 📌 Tools & Collaboration
 
